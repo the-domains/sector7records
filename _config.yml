@@ -1,0 +1,28 @@
+name: Sector 7 Records
+favicon: null
+layout_spectrum: 0.5828486098907888
+typography_spectrum: 0.2639953263569623
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.09398485440760851
+  lightness: 0.34972321265377104
+  saturation: 0.3900776987429708
+  rhythmicContrast: 0.9504785775206983
+purpose: []
