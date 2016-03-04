@@ -2,18 +2,16 @@
     <channel>
         <title><![CDATA[Sector 7 Records]]></title>
         <description><![CDATA[Sector 7 Records]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:13:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 23:13:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sector 7 Records has one purpose: Expose the world to amazing electronic
- music artists and sounds. Originating from Columbus Ohio, S7R accepts 
-any genre.</p>]]></description>
-            <link>undefined8f2fa43a-9cbc-4422-bc5e-05f2e5a3c5df/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/193070bc-6fd6-41a0-9165-29f4a70544cb.png">]]></description>
+            <link>https://thegrid.ai/sector7records/8f2fa43a-9cbc-4422-bc5e-05f2e5a3c5df/index.html</link>
             <guid isPermaLink="false">8f2fa43a-9cbc-4422-bc5e-05f2e5a3c5df</guid>
-            <pubDate>Fri, 04 Mar 2016 23:13:03 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 23:13:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
