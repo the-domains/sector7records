@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Coming soon...
-datePublished: '2016-03-23T23:01:40.565Z'
-dateModified: '2016-03-23T23:01:21.626Z'
+datePublished: '2016-03-23T23:02:49.411Z'
+dateModified: '2016-03-23T23:02:43.390Z'
+title: ''
+author: []
+sourcePath: _posts/2016-03-23-coming-soon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-sourcePath: _posts/2016-03-23-coming-soon.md
-published: true
 url: coming-soon/index.html
 _type: Article
 
