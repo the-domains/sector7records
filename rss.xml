@@ -4,7 +4,7 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 23:16:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -28,13 +28,6 @@ any genre.</p>]]></description>
             <link>https://soundcloud.com/gristolpip</link>
             <guid isPermaLink="false">1b30ac4e-698f-428a-9e7d-a61dcb570105</guid>
             <pubDate>Wed, 23 Mar 2016 23:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0202ba85-42e7-4dad-a1fa-c02cf14e782b.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/sector7records/coming-soon/index.html</link>
-            <guid isPermaLink="false">b52476e0-8424-40b7-95ac-6408dbdd8afa</guid>
-            <pubDate>Wed, 23 Mar 2016 23:02:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
