@@ -50,8 +50,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/outofmanadjs'
 title: Out of Mana
-datePublished: '2016-03-23T23:27:09.883Z'
-dateModified: '2016-03-23T23:26:32.460Z'
+datePublished: '2016-03-23T23:28:14.211Z'
+dateModified: '2016-03-23T23:28:02.086Z'
 sourcePath: _posts/2016-03-23-out-of-mana.md
 published: true
 inFeed: true
