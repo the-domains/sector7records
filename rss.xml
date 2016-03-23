@@ -4,7 +4,7 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 22:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 23:03:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,6 +14,13 @@ any genre.</p>]]></description>
             <link>https://thegrid.ai/sector7records/8f2fa43a-9cbc-4422-bc5e-05f2e5a3c5df/index.html</link>
             <guid isPermaLink="false">8f2fa43a-9cbc-4422-bc5e-05f2e5a3c5df</guid>
             <pubDate>Wed, 23 Mar 2016 22:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0202ba85-42e7-4dad-a1fa-c02cf14e782b.png">]]></description>
+            <link>https://thegrid.ai/sector7records/coming-soon/index.html</link>
+            <guid isPermaLink="false">b52476e0-8424-40b7-95ac-6408dbdd8afa</guid>
+            <pubDate>Wed, 23 Mar 2016 23:01:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
