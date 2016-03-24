@@ -4,7 +4,7 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 18:00:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 18:00:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sector 7 Records]]></title>
@@ -61,13 +61,6 @@
             <link>https://twitter.com/sector7records</link>
             <guid isPermaLink="false">b219455d-ee56-441a-b55e-8b06439d3596</guid>
             <pubDate>Thu, 24 Mar 2016 17:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sector 7 Records has one purpose: Expose the world to amazing electronic music artists and sounds. Originating from Columbus Ohio, S7R accepts any genre.</p>]]></description>
-            <link>https://thegrid.ai/sector7records/b4227836-a91b-4448-98a0-487debdfde43/index.html</link>
-            <guid isPermaLink="false">b4227836-a91b-4448-98a0-487debdfde43</guid>
-            <pubDate>Thu, 24 Mar 2016 00:32:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
