@@ -4,8 +4,15 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 17:42:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CentricMusic]]></title>
+            <description><![CDATA[<article><h1>CentricMusic</h1><p>Centric Studio</p></article>]]></description>
+            <link>https://www.twitch.tv/centricmusic</link>
+            <guid isPermaLink="false">ee74c864-0e4a-4b82-a96d-139ea199da58</guid>
+            <pubDate>Thu, 24 Mar 2016 17:42:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sector 7 Records]]></title>
             <description><![CDATA[<article><h1>Sector 7 Records</h1><p>Check out Sector 7 Records on Beatport.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdef6c00ccd462df21800650b476b1a83c53dd6a.jpg"></article>]]></description>
