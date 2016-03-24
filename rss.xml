@@ -4,28 +4,21 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 00:30:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vexxe]]></title>
+            <description><![CDATA[<article><h1>Vexxe</h1><p>probably making beats that i'll never upload vexxemusic@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06b5585bd24d6061aa8215cfaa0968f70fbf4cd.jpg"></article>]]></description>
+            <link>https://soundcloud.com/vexxemusic</link>
+            <guid isPermaLink="false">17e4c4c8-b775-483a-9630-4d2dda605111</guid>
+            <pubDate>Thu, 24 Mar 2016 00:30:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sector 7 Records has one purpose: Expose the world to amazing electronic music artists and sounds. Originating from Columbus Ohio, S7R accepts any genre.</p>]]></description>
             <link>https://thegrid.ai/sector7records/fef9a967-129f-43a6-b230-9e311d76d4ce/index.html</link>
             <guid isPermaLink="false">fef9a967-129f-43a6-b230-9e311d76d4ce</guid>
             <pubDate>Thu, 24 Mar 2016 00:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Out of Mana]]></title>
-            <description><![CDATA[<article><h1>Out of Mana</h1><p>Out of Mana a.k.a. OOM = @DjCentric @Auryanedm Label owners of @Sector-Seven-Records Two EDM producers with completely different backgrounds. You never know what we will throw at you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/020b2a736f6f8266e5e88a35f34183daeb5e7284.jpg"></article>]]></description>
-            <link>https://soundcloud.com/outofmanadjs</link>
-            <guid isPermaLink="false">155d9d09-2cd7-41cf-b03a-94529237e751</guid>
-            <pubDate>Wed, 23 Mar 2016 23:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[†‡ Gr¡štøL Þ¡þ ‡†]]></title>
-            <description><![CDATA[<article><h1>†‡ Gr¡štøL Þ¡þ ‡†</h1><p>Bass. @sector-seven-records</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e7368e3c56b481d50a997abbf4c3ed0f3dd4e92.jpg"></article>]]></description>
-            <link>https://soundcloud.com/gristolpip</link>
-            <guid isPermaLink="false">1b30ac4e-698f-428a-9e7d-a61dcb570105</guid>
-            <pubDate>Wed, 23 Mar 2016 23:14:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
