@@ -4,7 +4,7 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 17:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 17:56:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sector 7 Records]]></title>
@@ -33,13 +33,6 @@
             <link>https://soundcloud.com/outofmanadjs</link>
             <guid isPermaLink="false">5f1bff58-cb50-4ca6-bf54-543cea7bbb47</guid>
             <pubDate>Thu, 24 Mar 2016 00:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vexxe]]></title>
-            <description><![CDATA[<article><h1>Vexxe</h1><p>probably making beats that i'll never upload vexxemusic@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06b5585bd24d6061aa8215cfaa0968f70fbf4cd.jpg"></article>]]></description>
-            <link>https://soundcloud.com/vexxemusic</link>
-            <guid isPermaLink="false">17e4c4c8-b775-483a-9630-4d2dda605111</guid>
-            <pubDate>Thu, 24 Mar 2016 00:30:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
