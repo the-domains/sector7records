@@ -4,7 +4,7 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>https://thegrid.ai/sector7records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 00:32:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sector7records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Out of Mana]]></title>
@@ -26,13 +26,6 @@
             <link>https://soundcloud.com/vexxemusic</link>
             <guid isPermaLink="false">17e4c4c8-b775-483a-9630-4d2dda605111</guid>
             <pubDate>Thu, 24 Mar 2016 00:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sector 7 Records has one purpose: Expose the world to amazing electronic music artists and sounds. Originating from Columbus Ohio, S7R accepts any genre.</p>]]></description>
-            <link>https://thegrid.ai/sector7records/fef9a967-129f-43a6-b230-9e311d76d4ce/index.html</link>
-            <guid isPermaLink="false">fef9a967-129f-43a6-b230-9e311d76d4ce</guid>
-            <pubDate>Thu, 24 Mar 2016 00:00:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
