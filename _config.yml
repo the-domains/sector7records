@@ -1,6 +1,6 @@
 name: Sector 7 Records
 favicon: null
-layout_spectrum: 0.24744
+layout_spectrum: 0.12823
 typography_spectrum: 0.31834
 title: Sector 7 Records
 cta:
@@ -22,8 +22,8 @@ color:
     - '#424242'
     - '#cfcfcf'
     - '#838383'
-  brandStrength: 0.3125
+  brandStrength: 0.1875
   lightness: 0.1875
   saturation: 0.25
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
