@@ -50,8 +50,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/sector-seven-records'
 title: Sector 7 Records
-datePublished: '2016-03-24T17:50:05.810Z'
-dateModified: '2016-03-24T17:47:54.778Z'
+datePublished: '2016-03-24T18:00:29.701Z'
+dateModified: '2016-03-24T18:00:22.950Z'
 sourcePath: _posts/2016-03-24-sector-7-records.md
 published: true
 inFeed: true
