@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sector 7 Records]]></title>
         <description><![CDATA[Sector 7 Records]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.sector7records.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:19:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 20:20:24 GMT</lastBuildDate>
+        <atom:link href="http://www.sector7records.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82231a80-b96d-4c1e-9636-b853c6e057ca.png">]]></description>
-            <link>undefineda3d5f094-f7eb-4bb3-b9af-62335f1adc88/index.html</link>
+            <link>http://www.sector7records.com/a3d5f094-f7eb-4bb3-b9af-62335f1adc88/index.html</link>
             <guid isPermaLink="false">a3d5f094-f7eb-4bb3-b9af-62335f1adc88</guid>
-            <pubDate>Thu, 07 Apr 2016 20:19:38 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 20:20:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
