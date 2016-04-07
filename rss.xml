@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Sector 7 Records]]></title>
         <description><![CDATA[Sector 7 Records]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.sector7records.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 21:04:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 21:07:16 GMT</lastBuildDate>
+        <atom:link href="http://www.sector7records.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://www.sector7records.com/e628891a-d933-4644-853a-cd8f3ec0f5bd/index.html</link>
+            <guid isPermaLink="false">e628891a-d933-4644-853a-cd8f3ec0f5bd</guid>
+            <pubDate>Thu, 07 Apr 2016 21:06:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6119cfba-92b4-4352-82f2-580d5cda3d23.png">]]></description>
-            <link>undefined39e46a66-aa5f-4938-9167-28dd2f445cdb/index.html</link>
+            <link>http://www.sector7records.com/39e46a66-aa5f-4938-9167-28dd2f445cdb/index.html</link>
             <guid isPermaLink="false">39e46a66-aa5f-4938-9167-28dd2f445cdb</guid>
             <pubDate>Thu, 07 Apr 2016 21:04:33 GMT</pubDate>
         </item>
