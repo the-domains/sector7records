@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sector 7 Records]]></title>
+        <description><![CDATA[Sector 7 Records]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 19:52:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OOM - (Out of Mana)]]></title>
+            <description><![CDATA[<article><h1>OOM - (Out of Mana)</h1><p>Out of Mana a.k.a. OOM = @DjCentric @Auryanedm Two EDM producers with completely different backgrounds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/020b2a736f6f8266e5e88a35f34183daeb5e7284.jpg"></article>]]></description>
+            <link>https://soundcloud.com/outofmanadjs</link>
+            <guid isPermaLink="false">9129c333-dd86-4e6c-9c0a-30ff1bd2bd4a</guid>
+            <pubDate>Thu, 07 Apr 2016 19:52:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
