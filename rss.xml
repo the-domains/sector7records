@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sector 7 Records]]></title>
         <description><![CDATA[Sector 7 Records]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.sector7records.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:47:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 20:49:44 GMT</lastBuildDate>
+        <atom:link href="http://www.sector7records.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OOM - (Out of Mana)]]></title>
+            <description><![CDATA[<article><h1>OOM - (Out of Mana)</h1><p>Out of Mana a.k.a. OOM = @DjCentric @Auryanedm Two EDM producers with completely different backgrounds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/020b2a736f6f8266e5e88a35f34183daeb5e7284.jpg"></article>]]></description>
+            <link>https://soundcloud.com/outofmanadjs</link>
+            <guid isPermaLink="false">aa879827-3114-49fe-84e3-d10c93129e6f</guid>
+            <pubDate>Fri, 08 Apr 2016 20:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vexxe]]></title>
             <description><![CDATA[<article><h1>Vexxe</h1><p>probably making beats that i'll never upload vexxemusic@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f05c14546d51cdeccfd97306f8349277127a6c2.jpg"></article>]]></description>
