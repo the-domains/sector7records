@@ -4,8 +4,15 @@
         <description><![CDATA[Sector 7 Records]]></description>
         <link>http://www.sector7records.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 02:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 02:17:03 GMT</lastBuildDate>
         <atom:link href="http://www.sector7records.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0ddb2c6-218e-4c10-8bff-3bd5710c6ebe.png">]]></description>
+            <link>http://www.sector7records.com/a9b2d038-2775-4b77-8fcd-a0ca9701769c/index.html</link>
+            <guid isPermaLink="false">a9b2d038-2775-4b77-8fcd-a0ca9701769c</guid>
+            <pubDate>Fri, 29 Apr 2016 02:16:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AlexRøds]]></title>
             <description><![CDATA[<article><h1>AlexRøds</h1><p>AlexRøds is a young composer of 19 years old who produces his own music in his home with pure pleasure, he shares it with you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8f3f5ad36b8b9c13509b616037f40ce2ab76efc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/chromerecordig</link>
             <guid isPermaLink="false">3d365b45-6953-46c4-9e8b-71f06a9d2ae6</guid>
             <pubDate>Fri, 29 Apr 2016 02:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sector 7 Records]]></title>
-            <description><![CDATA[<article><h1>Sector 7 Records</h1><p>Demo Submissions: https://www.toneden.io/sector7records General Inquires: SectorSevenRecords@gmail.com Sector 7 Records has one purpose: Expose the world to amazing electronic music artists and sounds. Originating from Columbus Ohio, S7R accepts any genre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/293c89f5ad705358d7784eacd592db14d742e9aa.jpg"></article>]]></description>
-            <link>https://soundcloud.com/sector7records</link>
-            <guid isPermaLink="false">24be4dc4-e696-4678-9f17-023a6b4f8046</guid>
-            <pubDate>Fri, 29 Apr 2016 02:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
