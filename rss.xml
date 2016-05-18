@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sector 7 Records]]></title>
+        <description><![CDATA[Sector 7 Records]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 19:12:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://soundcloud.com/sector7records</p>]]></description>
+            <link>undefinedhttpssoundcloudcomsector7records/index.html</link>
+            <guid isPermaLink="false">e986dc56-0808-417c-b75c-920eccb3ae2b</guid>
+            <pubDate>Wed, 18 May 2016 19:12:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
