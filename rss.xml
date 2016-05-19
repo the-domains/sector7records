@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sector 7 Records]]></title>
         <description><![CDATA[Sector 7 Records]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.sector7records.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 08:13:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 08:14:10 GMT</lastBuildDate>
+        <atom:link href="http://www.sector7records.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sector 7 Records]]></title>
+            <description><![CDATA[<article><h1>Sector 7 Records</h1><p>Sector 7 Records has one purpose: Expose the world to amazing electronic music artists and sounds. S7R accepts any genre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d8e11a02a494308b40f7f0ed7baf153fa0900c6.jpg"></article>]]></description>
+            <link>https://m.soundcloud.com/sector7records</link>
+            <guid isPermaLink="false">b97c5cdf-6d91-4734-ae35-f4fda93c3b89</guid>
+            <pubDate>Thu, 19 May 2016 08:13:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sector 7 Artist's FREE DOWNLOADS by Sector 7 Records]]></title>
             <description><![CDATA[<article><h1>Sector 7 Artist's FREE DOWNLOADS by Sector 7 Records</h1><p>Sector 7 Records has one purpose: Expose the world to amazing electronic music artists and sounds. S7R accepts any genre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01308433df01d239dfce6073186c0b405cd22e93.jpg"></article>]]></description>
